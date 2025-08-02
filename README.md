@@ -11,11 +11,11 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 
 ## KPIS Implimented
 
-->Key performance indicators implemented in the dashboard include:
-->Burnout Risk %
-->Average Tasks Completed
-->Overtime Hours %
-->Average Stress Score
-->Avg Replacement Cost
-->Sleep Hours by Department
+- Key performance indicators implemented in the dashboard include:
+- Burnout Risk %
+- Average Tasks Completed
+- Overtime Hours %
+- Average Stress Score
+- Avg Replacement Cost
+- Sleep Hours by Department
 
