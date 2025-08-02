@@ -25,7 +25,7 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 - AI-based burnout prediction using multiple datasets.
 - Offline deployment compatibility for low-connectivity zones.
 - Real-time insights for HR decision makers.
-- <a href ="https://github.com/shivasagardesai/AI-Powered-Employee-Productivity-Wellbeing-Analytics-Dashboard/blob/main/Screenshot%202025-08-02%20163620.png">Screenshot</a>
+
 
 ## Business Impact & Benefits
 
@@ -40,6 +40,7 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 - Clean, professional theme with dark background.
 - Dynamic cards, bar charts, line graphs, slicers.
 - Optimized layout for key decision-making metrics.
+-  <a href ="https://github.com/shivasagardesai/AI-Powered-Employee-Productivity-Wellbeing-Analytics-Dashboard/blob/main/Screenshot%202025-08-02%20163620.png">View Dashboard</a>
 
 
 
