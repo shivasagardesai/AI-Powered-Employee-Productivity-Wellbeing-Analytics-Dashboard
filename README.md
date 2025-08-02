@@ -19,3 +19,27 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 - Avg Replacement Cost
 - Sleep Hours by Department
 
+## Unique & Innovative Features
+
+- What makes this dashboard stand out?
+- AI-based burnout prediction using multiple datasets.
+- Offline deployment compatibility for low-connectivity zones.
+- Real-time insights for HR decision makers.
+- <a href ="https://github.com/shivasagardesai/AI-Powered-Employee-Productivity-Wellbeing-Analytics-Dashboard/blob/main/Screenshot%202025-08-02%20163620.png">Screenshot</a>
+
+## Business Impact & Benefits
+
+- The dashboard helps organizations by:
+- Reducing attrition and replacement costs.
+- Improving employee wellbeing through early detection.
+- Providing HR with powerful visualization tools
+
+## Dashboard Overview
+
+- Interactive, filterable dashboard created using Power BI.
+- Clean, professional theme with dark background.
+- Dynamic cards, bar charts, line graphs, slicers.
+- Optimized layout for key decision-making metrics.
+
+
+
