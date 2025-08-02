@@ -9,7 +9,7 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 ## Dataset used
 - <a href="https://github.com/shivasagardesai/AI-Powered-Employee-Productivity-Wellbeing-Analytics-Dashboard/blob/main/HR_Analytics_Advanced_Offline_Dataset.xlsx">Dataset</a>
 
-##KPIS Implimented
+## KPIS Implimented
 
 ->Key performance indicators implemented in the dashboard include:
 ->Burnout Risk %
