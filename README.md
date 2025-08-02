@@ -42,5 +42,12 @@ dashboard integrates six datasets: Employee, Productivity, Costs, Turnover, Well
 - Optimized layout for key decision-making metrics.
 -  <a href ="https://github.com/shivasagardesai/AI-Powered-Employee-Productivity-Wellbeing-Analytics-Dashboard/blob/main/Screenshot%202025-08-02%20163620.png">View Dashboard</a>
 
+## Conclusion
+
+- The AI-Powered Employee Analytics Dashboard provides actionable insights into employee wellbeing and performance, helping HR make informed and proactive decisions.
+
+
+  
+
 
 
